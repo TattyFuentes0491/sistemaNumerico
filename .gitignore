@@ -1,5 +1,6 @@
 *build/
-*nbproject/
+*build/classes/
+*nbproject
 *test/
 .xml
 .mf
